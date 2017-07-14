@@ -1,6 +1,6 @@
 .jquery-msgbox
 {
-  background:url(http://css.vmad-cdn.com/msgbox_i/background.png) repeat-x left bottom;
+  background:url(https://cdn.rawgit.com/vmadcdn/css/4623e674/msgbox_i/background.png) repeat-x left bottom;
   padding-bottom:55px;
   font-style:normal;
 }
@@ -51,25 +51,25 @@
 
 .jquery-msgbox-alert
 {
-  background: url(http://css.vmad-cdn.com/msgbox_i/alert.png) no-repeat 20px 20px;
+  background: url(https://cdn.rawgit.com/vmadcdn/css/4623e674/msgbox_i/alert.png) no-repeat 20px 20px;
 }
 
 .jquery-msgbox-info
 {
-  background: url(http://css.vmad-cdn.com/msgbox_i/info.png) no-repeat 20px 20px;
+  background: url(https://cdn.rawgit.com/vmadcdn/css/4623e674/msgbox_i/info.png) no-repeat 20px 20px;
 }
 
 .jquery-msgbox-error
 {
-  background: url(http://css.vmad-cdn.com/msgbox_i/error.png) no-repeat 20px 20px;
+  background: url(https://cdn.rawgit.com/vmadcdn/css/4623e674/msgbox_i/error.png) no-repeat 20px 20px;
 }
 
 .jquery-msgbox-prompt
 {
-  background: url(http://css.vmad-cdn.com/msgbox_i/question.png) no-repeat 20px 20px;
+  background: url(https://cdn.rawgit.com/vmadcdn/css/4623e674/msgbox_i/question.png) no-repeat 20px 20px;
 }
 
 .jquery-msgbox-confirm
 {
-  background: url(http://css.vmad-cdn.com/msgbox_i/confirm.png) no-repeat 20px 20px;
+  background: url(https://cdn.rawgit.com/vmadcdn/css/4623e674/msgbox_i/confirm.png) no-repeat 20px 20px;
 }
