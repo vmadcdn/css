@@ -8,7 +8,7 @@ html{
 	line-height:20px;
 }
 body{
-background-image: url(http://img.vmad-cdn.com/bg.gif);
+background-image: url(https://cdn.rawgit.com/vmadcdn/img/43dbe82b/bg.gif);
 
 }
 a:focus{
@@ -71,7 +71,7 @@ div.login-box-header{
 	height:29px;
 	float:left;
 	padding:10px;
-	background:#eee url(http://img.vmad-cdn.com/bg-header.png) repeat-x;
+	background:#eee url(https://cdn.rawgit.com/vmadcdn/img/43dbe82b/bg-header.png) repeat-x;
 	border:1px solid #b4b4b4;
 }
 ul.tabs{
@@ -211,7 +211,7 @@ div.login-box-row #submit{
 	font-size:13px;
 	border:none;
 	cursor:pointer;
-	background:url(http://img.vmad-cdn.com/66x34-btn.png) no-repeat;
+	background:url(https://cdn.rawgit.com/vmadcdn/img/43dbe82b/66x34-btn.png) no-repeat;
 	background-position:0 0;	
 }
 div.login-box-row #submit:hover{
@@ -228,7 +228,7 @@ div.login-box-row #submit1{
 	font-size:13px;
 	border:none;
 	cursor:pointer;
-	background:url(http://img.vmad-cdn.com/66x34-btn.png) no-repeat;
+	background:url(https://cdn.rawgit.com/vmadcdn/img/43dbe82b/66x34-btn.png) no-repeat;
 	background-position:0 0;	
 }
 div.login-box-row #submit1:hover{
@@ -245,7 +245,7 @@ div.login-box-row #submit2{
 	font-size:13px;
 	border:none;
 	cursor:pointer;
-	background:url(http://img.vmad-cdn.com/66x34-btn.png) no-repeat;
+	background:url(https://cdn.rawgit.com/vmadcdn/img/43dbe82b/66x34-btn.png) no-repeat;
 	background-position:0 0;	
 }
 div.login-box-row #submit2:hover{
@@ -259,7 +259,7 @@ div.login-box-error-small{
 	border:1px solid #f74c4c;
 	margin-bottom:10px;
 	position:relative;
-	background:#febfbf url(http://img.vmad-cdn.com/delete.png) no-repeat 10px 50%;
+	background:#febfbf url(https://cdn.rawgit.com/vmadcdn/img/43dbe82b/delete.png) no-repeat 10px 50%;
 }
 div.login-box-succes-small{
 	width:438px;
@@ -268,7 +268,7 @@ div.login-box-succes-small{
 	border:1px solid #51be21;
 	margin-bottom:10px;
 	position:relative;
-	background:#c3fbaa url(http://img.vmad-cdn.com/accept.png) no-repeat 10px 50%;
+	background:#c3fbaa url(https://cdn.rawgit.com/vmadcdn/img/43dbe82b/accept.png) no-repeat 10px 50%;
 }
 div.login-box-warning-small{
 	width:438px;
@@ -277,7 +277,7 @@ div.login-box-warning-small{
 	border:1px solid #d5c913;
 	margin-bottom:10px;
 	position:relative;
-	background:#fffab2 url(http://img.vmad-cdn.com/error.png) no-repeat 10px 50%;	
+	background:#fffab2 url(https://cdn.rawgit.com/vmadcdn/img/43dbe82b/error.png) no-repeat 10px 50%;	
 }
 div.login-box-error-small p,
 div.login-box-succes-small p,
