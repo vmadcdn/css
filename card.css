@@ -1,0 +1,21 @@
+#card_container.card_spacer{ padding:19px 0 0}
+.card_content{ float:left; width:495px; padding:0 0 66px 0}
+.card_content ul{ float:left; width:100%; list-style:none}
+.card_content ul li{ float:left; width:493px; border:1px solid #d2d2d2; background:#fff;box-shadow: 0 0 6px 6px #EEEEEE; padding:0 0 11px 0; border-radius:5px; position:relative; margin-bottom:20px;behavior:url(PIE.htc);}
+.card_content ul li .top_row{ float:left; width:480px;  padding:16px 0 0 13px;border-radius:7px 7px 0 0; margin:-1px -1px 0 -1px;behavior:url(PIE.htc); position:relative; cursor: pointer; }
+.card_content ul li .top_row.active{ background:url(images/blue_gradient.jpg) repeat-x 0 0;border:1px solid #96cbeb; border-top:none; border-bottom:none; padding-bottom:12px} 
+.card_content ul li .top_row span{ display:inline-block;font-size:20px; line-height:24px; color:#000000; margin-top:3px;font-family: 'robotoregular';}
+.card_content ul li .top_row a{ float:left; width:30px; background:url(images/tab_icon.png) no-repeat 0 0 ; height:30px; margin-right:13px}
+.card_content ul li .top_row a:hover{ background-position:100% -30px}
+.card_content ul li .top_row.active a{ background-position:100% -30px}
+.card_content ul li .detail_box{float:left; width:423px;  padding:22px 0 10px 23px; display:none}
+.card_content ul li .detail_box p{ font-size:14px; line-height:19px; color:#525f66;font-family: 'DroidSansRegular';} 
+
+
+.card_hidden { display: none; }
+.card_unhidden { display: block; } 
+
+td.card_details_screen{
+border-bottom: 1px dashed #9a9a9a;	
+line-height:10px;
+}

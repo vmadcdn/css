@@ -1,0 +1,213 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+ol, ul {
+    
+    list-style: none;
+}
+
+div {
+    
+    display: block;
+    position: relative;
+}
+
+.clear:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}
+* html .clear { zoom: 1; }
+*:first-child+html .clear { zoom: 1; }
+
+body, html {
+    
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    
+    overflow: auto;
+    
+    background: #f5f5f5;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ffffff), color-stop(1, #e5e5e5));
+    background: -moz-linear-gradient(center top, #ffffff 0%, #e5e5e5 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=#FFFFFFFF, endColorStr=#FFE5E5E5, GradientType=0) !important;
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr=#FFFFFFFF, endColorStr=#FFE5E5E5E5, GradientType=0)" !important;
+    
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    color: #404040;
+}
+
+
+
+ul#Alerts, ul#Footer {
+    
+    display: block;
+    position: relative;
+    width: 800px;
+    margin: auto;
+}
+
+ul#Alerts {
+    
+    padding: 100px 0 0;
+}
+
+ul#Alerts li.alert {
+    
+    display: block;
+    position: relative;
+    
+    padding: 20px;
+    
+    margin: 0 0 4px;
+    
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    border-radius: 12px;
+    
+    border: 1px solid #e8e8e8;
+    
+    #background: url('/cdn-cgi/images/challenge/corner.gif') no-repeat bottom right #fff;
+    
+    -moz-box-shadow: 0px 2px 2px #c0c0c0;
+    -webkit-box-shadow: 0px 2px 2px #c0c0c0;
+    box-shadow: 0px 2px 2px #c0c0c0;
+}
+
+ul#Alerts img {
+    
+    float: left;
+}
+
+ul#Alerts h1, ul#Alerts ul, ul#Alerts p {
+    
+    margin-left: 150px;
+}
+
+ul#Alerts h1 {
+    
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    margin-bottom: 10px;
+    margin-top: 14px;
+}
+
+ul#Alerts p {
+    
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 10px;
+}
+
+ul#Alerts p.last {
+    
+    margin-bottom: 18px;
+}
+
+ul#Alerts strong {
+    
+    margin: 0 0.2em;
+}
+
+ul#Alerts a {
+    
+    color: #007ED9;
+    text-decoration: none;
+}
+
+ul#Alerts a:hover {
+    
+    color: #E67300;
+    text-decoration: underline;
+}
+
+ul#Alerts ul {
+    
+    list-style: disc outside;
+    padding-left: 20px;
+}
+
+ul#Alerts ul li {
+    
+    margin: 0 40px 0 10px;
+}
+
+ul#Alerts ul p {
+    
+    margin-left: 0;
+}
+
+ul#Alerts a.corner {
+    
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 164px;
+    height: 32px;
+}
+
+ul#Footer {
+    
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+ul#Footer li {
+    
+    display: inline;
+}
+
+ul#Footer li.last {
+    
+    border-right: none;
+}
+
+ul#Footer li a,
+ul#Footer li span {
+    
+    display: inline;
+    margin: 0 10px;
+    font-size: 12px;
+}
+
+ul#Footer li a {
+    
+    color: #2fa8ff;
+    text-decoration: none;
+}
+
+ul#Footer li a:hover {
+    
+    color: #ff9d3c;
+    text-decoration: underline;
+}
+
+ul#Footer li span {
+    
+    color: #707070;
+    letter-spacing: 0.1em;
+}

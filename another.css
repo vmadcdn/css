@@ -1,0 +1,51 @@
+table.pageinate {
+	margin:5px;
+	width:927px;
+  background-color:#fffff;
+}
+table.paginate td.left{
+	padding: 2px 2px 2px 6px;
+	background-color:#ffffff;
+	text-align:left;
+	width:450px;
+} 
+table.paginate td.right{
+	padding: 2px 0 2px 2px;
+	background-color:#ffffff;
+ text-align:right;
+  width:472px;
+}
+ .paginate {
+font-family: Verdana;
+font-size: 9px;
+}
+select.paginate {
+	padding:0px;
+	font-family: Verdana;
+  font-size: 10px;
+	color: #666;
+	height: 18px;
+}
+a.paginate {
+border: 1px solid #8A8A8A;
+padding: 1px 4px 1px 4px;
+text-decoration: none;
+color: #8A8A8A;
+}
+a.paginate:hover {
+background-color: #8A8A8A;
+color: #FFF;
+text-decoration: underline;
+}
+a.current {
+border: 1px solid #8A8A8A;
+font: bold 9px Verdana;
+padding: 1px 4px 1px 4px;
+cursor: default;
+background:#8A8A8A;
+color: #FFF;
+text-decoration: none;
+}
+#box{
+	border:1px solid #696969;
+}

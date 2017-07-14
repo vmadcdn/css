@@ -1,0 +1,43 @@
+.tooltip {
+	display:none;
+	position:absolute;
+	border:1px solid #333;
+	background-color:#161616;
+	border-radius:5px;
+	padding:10px;
+	color:#fff;
+	font-size:12px Arial;
+}
+
+/* PP Image Center text */
+img.ppimg{
+	vertical-align:middle;
+	height:16px;
+	width:16px;
+}
+
+/* New Image Center text */
+img.newimg{
+	vertical-align:middle;
+	height:28px;
+	width:38px;
+}
+
+/* New Image Center text */
+img.captchaimg{
+	vertical-align:middle;
+	height:32px;
+	width:100px;
+}
+/* New Image Center text */
+img.couponcaptchaimg{
+	vertical-align:middle;
+	height:32px;
+	width:100px;
+}
+/* PP Image Center text */
+img.dukimg{
+	vertical-align:middle;
+	height:30px;
+	width:30px;
+}

@@ -1,0 +1,178 @@
+/* ===== main tags ==== */
+
+*, body, html {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background: #0a1920 url(../images/trans.gif) no-repeat top left;
+	font-family: Arial, sans-serif;
+	font-size:0.8em;
+	color:#FFFFFF;
+}
+
+h1 {
+	font-family: "Myriad Pro","Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+	font-weight:normal;
+	font-size:1.5em;
+	margin-bottom:20px;
+}
+
+h4 {
+	margin-bottom:10px;
+	font-weight:normal;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+h1 span {
+	padding:5px 10px;
+}
+
+p {
+	line-height:1.4em;
+	margin-bottom:10px;
+}
+
+a {
+	color:#00CCFF;
+}
+
+.linkButton a {
+	font-family:"Myriad Pro","Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+	background:#00CCFF;
+	padding:5px 10px;
+	color:white;
+	text-decoration:none;
+}
+
+.linkButton a:hover {
+	background: #0099FF;
+}
+
+.linkButton {
+	padding-top: 20px;
+	text-align:right;
+	margin-right:10px;
+}
+
+/* Contact Popup */
+
+#backgroundPopup {
+	display:none;
+	position:fixed;
+	_position:absolute; /* hack for internet explorer 6*/
+	height:100%;
+	width:100%;
+	top:0;
+	left:0;
+	background:#000000;
+	z-index:1;
+}
+
+.buttonPopupClose {
+	width:20px;
+	height:20px;
+	background:url(../images/closeButton.png) no-repeat top;
+	right:10px;
+	top:10px;
+	position:absolute;
+	display:block;
+}
+
+.buttonPopupClose:hover {
+	background-position:bottom;
+}
+
+#popupContact .popupBody {
+	background: #FF6600;
+	padding: 0 20px;
+}
+
+#popupContact, #popupBeta {
+	display:none;
+	position:fixed;
+	_position:absolute; /* hack for internet explorer 6*/
+	z-index:2;
+}
+
+.popupBody input.textBox, .popupBody textarea.textArea {
+	width: 290px;
+	font-family: Verdana,Geneva,sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size-adjust: none;
+	font-stretch: normal;
+	-x-system-font: none;
+	color: #665c53;
+	padding:6px 9px;
+	margin-bottom:20px;
+}
+
+.popupBody input.textBox {
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.popupBody textarea.textArea {
+	font-size: 12px;
+	line-height: 16px;
+	height: 74px;
+}
+
+.popupBody input.submitButton {
+	padding:10px 20px;
+	overflow:hidden;
+	font-family:"Myriad Pro","Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif;
+	color:#FFFFFF;
+	font-size:16px;
+	border:0px;
+	cursor:pointer;
+	background-color:#333;
+}
+
+.popupBody input.submitButton:hover {
+	background-color:#666;
+}
+
+#popupBeta .popupBody {
+	background:#FF33CC;
+	padding: 0 20px;
+}
+
+.popupBody .loadingArea {
+	margin-right:20px;
+}
+
+.popupBody .messageArea {
+	max-width:290px;
+	margin-bottom:10px;
+	font-size:12px;
+	font-weight:bold;
+	color:#333333;
+}
+
+.messageArea ul {
+	margin-left:30px;
+}
+
+/* ===== Misc ==== */
+
+.clr {
+	clear:both;
+}
+
+.blue {
+	/*background: #00CCFF;*/
+	background: #FF6600;
+}
+
+.pink {
+	background: #FF33CC;
+}
+
+.green {
+	background: #00CC33;
+	/*color:#006600;*/
+}
