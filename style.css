@@ -71,7 +71,7 @@ font-size: 11px;
 .shortcut-button {
                 border: 1px solid #ccc;
                 width: 120px;
-                background: #f7f7f7 url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/shortcut-button-bg.gif') top left no-repeat;
+                background: #f7f7f7 url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/shortcut-button-bg.gif') top left no-repeat;
                 display: block;
                 margin: 0 0 0 0;
                 }
@@ -154,7 +154,7 @@ legend {
 table.header { 
 	width: 100%;
 	border-bottom:1px solid #000000;
-	background: #f7f0de url(https://cdn.rawgit.com/vmadcdn/css/10916977/images/bg.gif) repeat;
+	background: #f7f0de url(https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/bg.gif) repeat;
 }
 
 table.content { 
@@ -364,16 +364,16 @@ background: black;
 #sidebar p 			 	{ font-size: 11px; color: #999999; font-weight: bold; margin: 0px; padding: 0px;}
 
 .#topbar-container { width: 890px; margin: auto; position: relative;} 
-.topbar-warning{background-image: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/topbar/bg.png');background-repeat: repeat-x;height: 53px;font-family: Calibri, Tahoma, Geneva, sans-serif;font-size: 120%;font-weight: bold;z-index: 1000;width: 100%;position: absolute;line-height: 14px;display: none;}
+.topbar-warning{background-image: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/topbar/bg.png');background-repeat: repeat-x;height: 53px;font-family: Calibri, Tahoma, Geneva, sans-serif;font-size: 120%;font-weight: bold;z-index: 1000;width: 100%;position: absolute;line-height: 14px;display: none;}
 .topbar-warning p {padding: 15px 0 0 0;margin: 0;text-align:center;color: #6e6205;line-height: 14px;}
-.topbar-warning .closebutton { background-image: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/topbar/buttonr.png');background-repeat: no-repeat;width: 66px;height: 20px;float: right;margin-top: 10px;padding: 5px 0 0 13px;color: #584F4D;}
-.topbar-warning .closebutton:hover{ background-image: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/topbar/buttonr_h.png'); }
+.topbar-warning .closebutton { background-image: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/topbar/buttonr.png');background-repeat: no-repeat;width: 66px;height: 20px;float: right;margin-top: 10px;padding: 5px 0 0 13px;color: #584F4D;}
+.topbar-warning .closebutton:hover{ background-image: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/topbar/buttonr_h.png'); }
 .topbar-bg { height: 47px; display:none; }  
 .topbar-bg { height: 47px; display:none; }  
 
 #loginerror { 
 width: 600px;
-background-image: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/error.png'); 
+background-image: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/error.png'); 
 background-repeat: no-repeat; 
 background-position: 5px; 
 text-align:left;	
@@ -384,7 +384,7 @@ border: 1px solid #F9523E;
 }
 
 #infoboxok { 
-background-image: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/ok.png'); 
+background-image: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/ok.png'); 
 background-repeat: no-repeat; 
 background-position: 5px; 
 text-align:left;
@@ -395,7 +395,7 @@ border: 1px solid #9EF93E;
 }
 
 #infoboxwarn { 
-background-image: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/warn.png'); 
+background-image: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/warn.png'); 
 background-repeat: no-repeat; 
 background-position: 5px; 
 text-align:left;
@@ -406,7 +406,7 @@ border: 1px solid #F9D43E;
 }
 
 #infoboxerror { 
-background-image: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/error.png'); 
+background-image: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/error.png'); 
 background-repeat: no-repeat; 
 background-position: 5px; 
 text-align:left;
@@ -417,7 +417,7 @@ border: 1px solid #F9523E;
 }
 
 #disabled { 
-background-image: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/error.png'); 
+background-image: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/error.png'); 
 background-repeat: no-repeat; 
 background-position: 5px; 
 text-align:left;
@@ -466,22 +466,22 @@ border: 1px solid #F9523E;
                 
 
 .warning {
-                background: #fffbcc url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/icons/exclamation.png') 10px 11px no-repeat;
+                background: #fffbcc url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/icons/exclamation.png') 10px 11px no-repeat;
                 border-color: #e6db55;
                 }
 
 .information {
-                background: #dbe3ff url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/icons/information.png');
+                background: #dbe3ff url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/icons/information.png');
                 border-color: #a2b4ee;
                 }
 
 .success {
-                background: #d5ffce url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/icons/tick_circle.png');
+                background: #d5ffce url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/icons/tick_circle.png');
                 border-color: #9adf8f;
                 }
 
 .error {
-                background: #ffcece url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/icons/cross_circle.png');
+                background: #ffcece url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/icons/cross_circle.png');
                 border-color: #df8f8f;
                 }
 
@@ -653,7 +653,7 @@ margin:100px;
 	display: inline-block;
 	width: 128px;
 	height: 40px;
-	background: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/add_to_cart.png');
+	background: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/add_to_cart.png');
 }
 .add_to_cart:hover {
 	outline: 1px solid gray;
@@ -664,7 +664,7 @@ margin:100px;
 	display: inline-block;
 	width: 128px;
 	height: 40px;
-	background: url('https://cdn.rawgit.com/vmadcdn/css/10916977/images/view_cart.png');
+	background: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/view_cart.png');
 }
 .view_cart:hover {
   outline: 1px solid gray;
