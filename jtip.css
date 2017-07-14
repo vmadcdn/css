@@ -1,7 +1,7 @@
 /* ---------->>> jtip <<<---------------------------------------------------------------*/
 
 #JT_arrow_left{
-	background-image: url(../images/arrow_left.gif);
+	background-image: url(https://cdn.rawgit.com/vmadcdn/css/e2f2cfa6/images/arrow_left.gif);
 	background-repeat: no-repeat;
 	background-position: left top;
 	position: absolute;
@@ -13,7 +13,7 @@
 }
 
 #JT_arrow_right{
-	background-image: url(../images/arrow_right.gif);
+	background-image: url(https://cdn.rawgit.com/vmadcdn/css/e2f2cfa6/images/arrow_right.gif);
 	background-repeat: no-repeat;
 	background-position: left top;
 	position: absolute;
@@ -36,7 +36,7 @@
 }
 
 .JT_loader{
-	background-image: url(../images/loader.gif);
+	background-image: url(https://cdn.rawgit.com/vmadcdn/css/e2f2cfa6/images/loader.gif);
 	background-repeat: no-repeat;
 	background-position: center center;
 	width:100%;
