@@ -649,11 +649,11 @@ margin:100px;
   left: 3px;
 }
 
-.add_to_cart {
+.\_cart {
 	display: inline-block;
 	width: 128px;
 	height: 40px;
-	background: url('https://cdn.rawgit.com/vmadcdn/css/66cd487a/images/add_to_cart.png');
+	background: url('https://raw.githubusercontent.com/vmadcdn/css/66cd487a/images/add_to_cart.png');
 }
 .add_to_cart:hover {
 	outline: 1px solid gray;
@@ -664,7 +664,7 @@ margin:100px;
 	display: inline-block;
 	width: 128px;
 	height: 40px;
-	background: url('https://cdn.rawgit.com/vmadcdn/css/ed3d4e13/images/view_cart.png');
+	background: url('https://raw.githubusercontent.com/vmadcdn/css/66cd487a/images/view_cart.png');
 }
 .view_cart:hover {
   outline: 1px solid gray;
